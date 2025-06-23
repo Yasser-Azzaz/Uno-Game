@@ -14,3 +14,6 @@ This is a console-based implementation of the classic UNO card game in Java.
 - Wild card color selection
 - Action card special effects
 
+## Requirements
+- Java Development Kit (JDK) 17 or higher
+
