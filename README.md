@@ -26,3 +26,8 @@ This is a console-based implementation of the classic UNO card game in Java.
 - Points awarded for cards left in opponents' hands
 - First to reach 500 points wins the game
 
+## Special Cards
+- Wild Cards: Can be played on any card
+- Skip: Next player loses turn
+- Reverse: Changes play direction
+- Draw Two: Next player draws two cards
