@@ -17,3 +17,7 @@ This is a console-based implementation of the classic UNO card game in Java.
 ## Requirements
 - Java Development Kit (JDK) 17 or higher
 
+## How to Run
+1. Compile all Java files
+2. Run `UNOGame`
+
