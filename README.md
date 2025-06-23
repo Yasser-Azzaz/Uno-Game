@@ -21,3 +21,8 @@ This is a console-based implementation of the classic UNO card game in Java.
 1. Compile all Java files
 2. Run `UNOGame`
 
+## Game Rules
+- Players aim to be the first to play all cards
+- Points awarded for cards left in opponents' hands
+- First to reach 500 points wins the game
+
